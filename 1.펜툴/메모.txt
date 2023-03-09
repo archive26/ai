@@ -1,0 +1,18 @@
+벡터 - 점과 점을 연결하는 선
+ai파일을 일러스트 문서라고 한다
+
+오브젝트 의 구성: 점=point ,선=path[anchhor point]( path의 stroke의 style(색상)을 별도로 집어넣을 수 있다)
+anchhor -연결된
+
+오브젝트 의 구성 하는 tool -selection tool , 하나하나 수정 dierect -selection tool
+artboard=대지 =도화지
+viewbox- 대지의 크기
+
+pen tool- path를 만들 수 있는 도구
+ handle- 곡선을 구성하기 위한 도구
+
+색상 표현코드-16진법
+
+object복사 alt+원하는 곳에 두기
+object의 순서를 바꿀 수 있다
+
